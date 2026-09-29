@@ -1,0 +1,6 @@
+First Name,Last Name,Email,Company,Title,Event Attendance Status,Live Event Time Spent(Minutes),Clicked Event Call-to-Action,Number Of Poll Participated,Number Of Questions Asked,Number Of Chat Messages,Engagement Score,Number Of Survey Submitted,Follow-Up Subject,Follow-Up Body,Draft Status,Drafted At
+Jane,Doe,jane.doe@example.com,Acme Corp,VP of Sales,Live,42,YES,2,1,6,9,1,,,,
+John,Smith,john.smith@example.com,Globex,Director of RevOps,Live,18,NO,0,0,1,4,0,,,,
+Priya,Patel,priya.patel@example.com,Initech,Marketing Ops Manager,Watched On Demand,,NO,,,,3,,,,,
+Marcus,Lee,marcus.lee@example.com,Umbrella Co,Account Executive,Did Not Attend,,NO,,,,,,,,,
+Sofia,Garcia,sofia.garcia@example.com,Hooli,Head of Demand Gen,Did Not Attend,,NO,,,,,,,,,
