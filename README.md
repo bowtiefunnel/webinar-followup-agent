@@ -4,7 +4,11 @@ Turns webinar attendee engagement into a personalized follow-up email, drafted b
 Claude and staged for a human to review and send. Nothing auto-sends.
 
 This is **Phase 2: Context-Aware Drafting** from the original "Webinar Followup Play"
-concept, built as two n8n workflows. Sibling to the
+concept, built as two n8n workflows.
+
+> **Source:** built from the webinar **"How To Build AI Agents for Your Event Workflows"**
+> (September 29, 2026, 1:00–2:00 PM EDT). The 5-step architecture and the
+> "Webinar Followup Play" framing come from that session; this repo is a working build of it. Sibling to the
 [Webinar Battlecard Agent](https://github.com/bowtiefunnel/webinar-battlecard-agent),
 which takes the same webinar signal to a Slack battlecard instead of an email draft.
 

@@ -1,7 +1,8 @@
 # Architecture — the 5-step play, mapped to two n8n workflows
 
 This is **Phase 2: Context-Aware Drafting** from the original "Webinar Followup Play"
-concept slide — turn a webinar attendee's live engagement into a hyper-personalized
+concept slide, presented in the webinar **"How To Build AI Agents for Your Event
+Workflows"** (September 29, 2026, 1:00–2:00 PM EDT) — turn a webinar attendee's live engagement into a hyper-personalized
 follow-up email, staged for a human to review and send. Sibling to the
 [Account Intelligence & Dynamic Battlecard Agent](https://github.com/bowtiefunnel/webinar-battlecard-agent),
 which handles the same webinar-event signal for a different destination (an interactive
